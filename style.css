@@ -1,0 +1,87 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+
+.jm-font{
+  font-family: 'Abril Fatface', cursive;
+  color: black;
+}
+
+.sens-font{
+  font-family: 'Dongle', cursive;
+  color: black;
+}
+
+.kong-font{
+  font-family: 'Gugi', cursive;
+  color: black;
+}
+
+.kang-font{
+  font-family: 'Do Hyeon', sans-serif;
+  color: black;
+}
+
+
+ p{
+
+ }
+
+  h4{
+    border-width:5px;
+    border-color:black;
+    border-style:inset;
+    color:black;
+    display:block;
+    width:150px;
+    border-radius:20px;
+  }
+
+h2{
+  font-size:50px;
+}
+
+  h1{
+    border-bottom:3.5px solid black;
+    padding:25px;
+    margin:0px;
+    display:black;
+
+  }
+  a {
+     color:black;
+     text-decoration: none;
+  }
+  h1 {
+    font-size:60px;
+    text-align: center;
+  }
+
+  }
+  body{
+    margin:0;
+  }
+  #grid{
+    display: grid;
+    grid-template-columns: 150px 1fr;
+  }
+  #grid ol{
+    padding-left:33px;
+  }
+  #hoya{
+    padding-left:25px;
+  }
+  #grid object{
+    padding-left:33px;
+  }
